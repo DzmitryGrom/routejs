@@ -1,11 +1,11 @@
 {
-  "name": "home-work-3-yakusik-maksim",
+  "name": "route",
   "version": "1.0.0",
   "description": "Third home work for course FD2 JavaScript by Intexsoft",
   "scripts": {
     "start": "browser-sync start -s -w"
   },
-  "author": "Maksim Yakusik",
+  "author": "Shaliaheika Dzmitry",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.1.1",
